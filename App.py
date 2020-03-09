@@ -2,8 +2,8 @@
 # Git: https://github.com/edenau/minimal-blockchain
 
 
-from MinimalChain import MinimalChain
 import datetime # tratamiento timestamps
+from MinimalChain import MinimalChain
 
 
 # se inicia la cadena y se agregan 20 bloques
